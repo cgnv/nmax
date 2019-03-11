@@ -1,4 +1,4 @@
-require "nmax/version"
+require 'nmax/version'
 
 module Nmax
   def self.find_max_num(str, qty = 1)
